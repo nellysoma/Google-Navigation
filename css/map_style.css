@@ -1,0 +1,22 @@
+body {
+font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size: small;
+background: #fff;
+}
+
+
+#map {
+/**width: 500px;**/
+height: 400px;
+border: 1px solid #000;
+margin-left: -10px;
+}
+
+#map1 {
+/**width: 500px;**/
+height: 400px;
+border: 1px solid #000;
+margin-left: -90px;
+background: #9acfea;
+margin-right: 10px;
+}
