@@ -218,7 +218,7 @@ and open the template in the editor.
 
         </script>
         <script async defer
-                src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBPvzZ3lzSEUrweC-39a0bIcrV9i3-IBPM&callback=initMap">
+                src="https://maps.googleapis.com/maps/api/js?key=[YOUR API KEY]&callback=initMap">
         </script>
      <script type="text/javascript" src="js/jquery-ui-min.js"></script> 
     </body>
